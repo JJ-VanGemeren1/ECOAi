@@ -1,2 +1,2 @@
-0 Dirty garbage
-1 Clean garbage
+0 Dirty Place
+1 Clean Place
